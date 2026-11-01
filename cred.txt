@@ -1,0 +1,9 @@
+cluster 0 username = aparnajoshi7004_db_user
+
+cluster_password = 525ci1VqgMyhMcN2
+
+
+connection_string = mongodb+srv://<db_username>:<db_password>@memorycluster.dynwoxf.mongodb.net/
+
+
+
